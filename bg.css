@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(49, 219, 126);
+    text-align: center;
+}
+
+h1 {
+    color: lightblue;
+    font-size: 70px;
+}
+
+h2 {
+    font-style: oblique;
+}
